@@ -6,6 +6,6 @@ Accessible for free, forever\*, at [lofi.valbuilds.xyz](https://lofi.valbuilds.x
 
 > \* Or as long as I keep it up :3
 
-All thumbnails in `app/thumbs` are property of Lofi Girl/Lofi Records. If you are the owner of this/these work(s) and want them removed, please [reach out](https://www.valbuilds.xyz/links).
+All thumbnails in `app/thumbs` are property of [Lofi Girl/Lofi Records](https://lofigirl.com/). If you are the owner of this/these work(s) and want them removed, please [reach out](https://www.valbuilds.xyz/links).
 
 All parts of this project (except for the aformentioned thumbnails) are licensed under the [MIT License](./LICENSE).
