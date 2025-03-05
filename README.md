@@ -10,4 +10,6 @@ All thumbnails in `app/thumbs` are property of [Lofi Girl/Lofi Records](https://
 
 All parts of this project (except for the aformentioned thumbnails) are licensed under the [MIT License](./LICENSE).
 
+All fonts (in `app/fonts`) are licensed under the [Open Font License](https://openfontlicense.org/open-font-license-official-text/).
+
 This project is not affilliated with Lofi Girl/Lofi Records.
