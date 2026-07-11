@@ -1,5 +1,10 @@
 # lofi-girl-web-app
 
+> [!NOTE]
+> This repository will soon be replaced by [valOS](https://github.com/valbuildr/valos).
+> Built to be more experience based, it'll will be a operating system-esque website.
+> It'll also replace my seperate [www](https://github.com/valbuildr/valbuildsxyz), [blog](https://github.com/valbuildr/blog.valbuilds.xyz), and [rblx](https://github.com/valbuildr/rblx.valbuilds.xyz) subdomains.
+
 A simple webpage with all of [Lofi Girl](https://lofigirl.com/)'s radios accessible via a Youtube embed.
 
 Accessible for free, forever\*, at [lofi.valbuilds.xyz](https://lofi.valbuilds.xyz).
